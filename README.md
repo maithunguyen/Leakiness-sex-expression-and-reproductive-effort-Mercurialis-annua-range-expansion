@@ -5,6 +5,7 @@ DATA files:
 1. GPS26withdistancesMINFERRY.cvs GPS locations of the sites and the calculated distance metrics.
 2. Seed phenotype.xlsx Seed weight measured as bulk of each populations, and measured of pooled 50 seeds per population.
 3. phenobiomassfull.xlsx phenotyping data of all plants.
+4. seeds pictures folder contains pictures and results from ImageJ for seed sizes of each population.
 
 ANALYSIS files:
 1. FunNiche-climateOFFICIAL.R Analysis of climate data downloaded from CHELSA. Generate PC1 and PC2 scores for all sites.
